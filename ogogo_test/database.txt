@@ -1,0 +1,7 @@
+acer
+macbook pro
+iMac
+hp
+asus
+lenovo
+ban_word
